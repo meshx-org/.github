@@ -15,7 +15,7 @@ You can join the fun by following our [contributing guide](https://github.com/me
 
 ## Repositories
 
-The MeshX organization has a number of repositories, some important ones include:
+The MeshX organization has a number of open-source repositories, some intresting ones include:
 
 <!-- alphabetical -->
 * [Meshx Workspace](https://github.com/meshx-org/meshx): MeshX workspace source and packages.
