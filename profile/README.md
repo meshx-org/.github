@@ -5,7 +5,7 @@ As a complete suite it contains tools for project management, collaboration in r
 
 ## Get started with MeshX!
 
-To learn more about MeshX, see <https://meshx.co/products/workspace>.
+To learn more about MeshX, see <https://meshx.co>.
 
 To get up to speed quickly, start with our [getting started guide](https://meshx.co/docs/get-started)!
 
