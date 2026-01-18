@@ -1,14 +1,7 @@
-# Welcome to the MeshX organization 👋
+# MeshX Open Source
 
-MeshX is a business platform built to help you with your daily work tasks.
-As a complete suite it contains tools for project management, collaboration in real-time, knowledge sharing, workflow automation and lot more.
+**MeshX** is an open-source cloud platform building on top of WebAssembly and WASI.
 
-## Get started with MeshX!
+We're building the next generation of cloud infrastructure — portable, secure, and composable, without vendor lock-in.
 
-To learn more about MeshX, see <https://meshx.co>.
-
-To get up to speed quickly, start with our [getting started guide](https://meshx.co/docs/get-started)!
-
- ## Get involved!
-
-You can join the fun by following our [contributing guide](https://github.com/meshx-org/.github/blob/main/CONTRIBUTING.md).
+🌐 [meshx.co](https://meshx.co) · 📖 [Contributing Guide](https://github.com/meshx-org/.github/blob/main/CONTRIBUTING.md)
